@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|c:\\users\\asus\\desktop\\muzeyonetimsistemiwpf\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|c:\\users\\asus\\desktop\\muzeyonetimsistemiwpf\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|c:\\users\\asus\\desktop\\muzeyonetimsistemiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C0049E9-D235-488D-9B53-A4FC87562D7D}|MuzeYonetimSistemiWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T14:55:50.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T14:55:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MuzeYonetimSistemiWPF\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:47:55.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
